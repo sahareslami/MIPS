@@ -1,0 +1,305 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\architecture\bibidibabidi boo\fum_mips
+vAdder
+Z1 I8Kl6ln;be=2UAVEJ`E@dB2
+Z2 VSPNF?cWm]TV3PE7maWXhP0
+Z3 dD:\architecture\niazi khar\fum_mips
+Z4 w1558084483
+Z5 8D:/architecture/niazi khar/fum_mips/Adder.v
+Z6 FD:/architecture/niazi khar/fum_mips/Adder.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@adder
+Z10 !s100 EhGD_fNN0]VoeiORjBWnz0
+Z11 !s108 1562044199.037000
+Z12 !s107 D:/architecture/niazi khar/fum_mips/Adder.v|
+Z13 !s90 -reportprogress|300|-work|work|D:/architecture/niazi khar/fum_mips/Adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+Z14 IzoICVhFgilNH4Fd:_gE5j1
+Z15 V:[B:Q2g>O:;YG38@f_go11
+R3
+Z16 w1558105185
+Z17 8D:/architecture/niazi khar/fum_mips/alu.v
+Z18 FD:/architecture/niazi khar/fum_mips/alu.v
+L0 1
+R7
+r1
+31
+Z19 !s108 1562044199.158000
+Z20 !s107 D:/architecture/niazi khar/fum_mips/alu.v|
+Z21 !s90 -reportprogress|300|-work|work|D:/architecture/niazi khar/fum_mips/alu.v|
+R8
+Z22 n@a@l@u
+Z23 !s100 `R5AcCjf=HN4`3bRL91F91
+!i10b 1
+!s85 0
+!s101 -O0
+vcheckModule
+Z24 IdSKOX<Y[1^fFNNoQDY0dF2
+Z25 V@2>YJ[gzOj4LKG1QRQZFF3
+R3
+Z26 w1558075248
+Z27 8D:/architecture/niazi khar/fum_mips/checkModule.v
+Z28 FD:/architecture/niazi khar/fum_mips/checkModule.v
+L0 1
+R7
+r1
+31
+R8
+Z29 ncheck@module
+Z30 !s100 BBdIz8^`8m?1gJd^ETf>`3
+Z31 !s108 1562044199.354000
+Z32 !s107 D:/architecture/niazi khar/fum_mips/checkModule.v|
+Z33 !s90 -reportprogress|300|-work|work|D:/architecture/niazi khar/fum_mips/checkModule.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrolUnit
+Z34 IL^GSefl97HmnimC<Yng>U1
+Z35 Vi>knVLD9`@mUfeGMB1Lj20
+R3
+Z36 w1558098544
+Z37 8D:/architecture/niazi khar/fum_mips/controlUnit.v
+Z38 FD:/architecture/niazi khar/fum_mips/controlUnit.v
+L0 1
+R7
+r1
+31
+R8
+Z39 ncontrol@unit
+Z40 !s100 AJboJXYMmgQ1aGhSloMI90
+Z41 !s108 1562044199.531000
+Z42 !s107 D:/architecture/niazi khar/fum_mips/controlUnit.v|
+Z43 !s90 -reportprogress|300|-work|work|D:/architecture/niazi khar/fum_mips/controlUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDMemBank
+Z44 ImeUOE5WL>;fX6aWhZC;NE2
+Z45 V^6P=P8ol;ALB5c8^lj_9F0
+R3
+Z46 w1562048048
+Z47 8D:/architecture/niazi khar/fum_mips/Data-Memory.v
+Z48 FD:/architecture/niazi khar/fum_mips/Data-Memory.v
+L0 2
+R7
+r1
+31
+Z49 !s108 1562048068.662000
+Z50 !s107 D:/architecture/niazi khar/fum_mips/Data-Memory.v|
+Z51 !s90 -reportprogress|300|-work|work|D:/architecture/niazi khar/fum_mips/Data-Memory.v|
+R8
+Z52 n@d@mem@bank
+!i10b 1
+Z53 !s100 3mbC2KTOkX3hf1ebPHC1[0
+!s85 0
+!s101 -O0
+vFum_mips
+Z54 IjC<aCUdgMbGeYkj`9EEz^1
+Z55 VJc5dC_Pbm4GW@P?j_zEm?3
+R3
+Z56 w1562047231
+Z57 8D:/architecture/niazi khar/fum_mips/Fum_Mips.v
+Z58 FD:/architecture/niazi khar/fum_mips/Fum_Mips.v
+L0 1
+R7
+r1
+31
+Z59 !s108 1562047239.610000
+Z60 !s107 D:/architecture/niazi khar/fum_mips/Fum_Mips.v|
+Z61 !s90 -reportprogress|300|-work|work|D:/architecture/niazi khar/fum_mips/Fum_Mips.v|
+R8
+Z62 n@fum_mips
+Z63 !s100 oWD6gBiQd5MhF;42WnmO@3
+!i10b 1
+!s85 0
+!s101 -O0
+vIMemBank
+Z64 Il8;dfW>PU:?oIWCZGC@>30
+Z65 V?FBX`XYCCALHJJ=<Ef_zc3
+R3
+Z66 w1562047799
+Z67 8D:/architecture/niazi khar/fum_mips/Inst-Memory.v
+Z68 FD:/architecture/niazi khar/fum_mips/Inst-Memory.v
+L0 2
+R7
+r1
+31
+Z69 !s108 1562047822.231000
+Z70 !s107 D:/architecture/niazi khar/fum_mips/Inst-Memory.v|
+Z71 !s90 -reportprogress|300|-work|work|D:/architecture/niazi khar/fum_mips/Inst-Memory.v|
+R8
+Z72 n@i@mem@bank
+Z73 !s100 66>Fi1<Mk9F9[mfoN9Z;_0
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z74 I1XMbm6<FX`OYEBCR2`oUG2
+Z75 V78;E4Cm7B`ANbNTfJbzFf1
+R3
+Z76 w1558100240
+Z77 8D:/architecture/niazi khar/fum_mips/PC.v
+Z78 FD:/architecture/niazi khar/fum_mips/PC.v
+L0 1
+R7
+r1
+31
+Z79 !s108 1562044200.138000
+Z80 !s107 D:/architecture/niazi khar/fum_mips/PC.v|
+Z81 !s90 -reportprogress|300|-work|work|D:/architecture/niazi khar/fum_mips/PC.v|
+R8
+n@p@c
+Z82 !s100 `GiW0N`>a20_=96jbmYNL2
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile
+!i10b 1
+!s100 Z=g>DeM`J@iZFAYW89Mi90
+IaW88daIe25P@B6WXHFQ0`1
+Z83 V;?`;5j21^XQ]VLD6gBb[31
+R3
+Z84 w1562048057
+Z85 8D:/architecture/niazi khar/fum_mips/regfile.v
+Z86 FD:/architecture/niazi khar/fum_mips/regfile.v
+L0 1
+R7
+r1
+!s85 0
+31
+Z87 !s108 1562048068.750000
+Z88 !s107 D:/architecture/niazi khar/fum_mips/regfile.v|
+Z89 !s90 -reportprogress|300|-work|work|D:/architecture/niazi khar/fum_mips/regfile.v|
+!s101 -O0
+R8
+Z90 n@reg@file
+vtestBenchAlu
+Z91 IFOZmYhMaK4f0PaK9^kZ[E2
+Z92 V2Jd9oOob:`m`]hYo:<0K>2
+R3
+R16
+R17
+R18
+L0 54
+R7
+r1
+31
+R19
+R20
+R21
+R8
+Z93 ntest@bench@alu
+Z94 !s100 OfI_O57=?L5fazKRk]2nP1
+!i10b 1
+!s85 0
+!s101 -O0
+vtestBenchDmem
+Z95 !s100 `1ljEebUQQH1bjQS20d8;2
+Z96 ITkeFIeUTFf[`iR13d[OVE1
+Z97 Ve`T=RPEL>]SW1>:_b6b[=3
+R3
+R46
+R47
+R48
+L0 28
+R7
+r1
+31
+R49
+R50
+R51
+R8
+Z98 ntest@bench@dmem
+!i10b 1
+!s85 0
+!s101 -O0
+vtestBenchIMem
+Z99 IVGMbnhDj8>B_l>f^mB3WP0
+Z100 VhA:M;gmLz_Y:3Hce9[e=X1
+R3
+R66
+R67
+R68
+Z101 L0 108
+R7
+r1
+31
+R69
+R70
+R71
+R8
+Z102 ntest@bench@i@mem
+Z103 !s100 coF@@okAn]f6c[m@1fZGZ2
+!i10b 1
+!s85 0
+!s101 -O0
+vtestBenchMips
+Z104 !s100 mDBkX8n[8AKK6h41ER4@F0
+Z105 IQR?nXDDbn=e>Yga:jV[Ri3
+Z106 V09gKGc=n@<AFf7nkOTTCj3
+R3
+R56
+R57
+R58
+Z107 L0 104
+R7
+r1
+31
+R59
+R60
+R61
+R8
+Z108 ntest@bench@mips
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBenchPc
+Z109 I?4ZCg7MohV70CnPUO[McG1
+Z110 V5af1;bdk[ZC^5gRkLl^4G0
+R3
+R76
+R77
+R78
+L0 11
+R7
+r1
+31
+R79
+R80
+R81
+R8
+Z111 n@test@bench@pc
+Z112 !s100 Hmaa=_MR9>:MHY?zVAzUg3
+!i10b 1
+!s85 0
+!s101 -O0
+vtestBenchRegFile
+!i10b 1
+Z113 !s100 8TCVRWa]WHURIPP[MeY[g3
+Z114 I`YHTYW4zM^aWOaN2Oe56Z1
+Z115 VA_AdaaZMBfD1D?107VIG`0
+R3
+R84
+R85
+R86
+L0 27
+R7
+r1
+!s85 0
+31
+R87
+R88
+R89
+!s101 -O0
+R8
+Z116 ntest@bench@reg@file
